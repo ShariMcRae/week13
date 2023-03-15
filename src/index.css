@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.formContainerHeight {
+  height: 60vh; 
+}
+
+.bgColor1 {
+  background-color: #c9e0cf;
+}
+
+
